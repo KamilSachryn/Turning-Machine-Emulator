@@ -1,0 +1,9 @@
+//this is a comment
+//this program accepts L=01*
+//B is "blank"
+//f is final (accepting) state
+//the order of the 5-tuple is 
+// current_state  current_tape_symbol new_state  new_tape_symbol  direction
+0 0 1 1 R  // in q0, must see one 0. go to q1 ot ready many 1s
+1 1 1 0 R  // in q1 need to see zero or more 1s
+1 B f B R  // at end of input, read B and accept.

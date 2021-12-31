@@ -1,0 +1,12 @@
+C:\Users\Infinity\source\repos\Turing Machine Emulator\Turing Machine Emulator\bin\Release\netcoreapp3.1\Turing Machine Emulator.exe
+C:\Users\Infinity\source\repos\Turing Machine Emulator\Turing Machine Emulator\bin\Release\netcoreapp3.1\Turing Machine Emulator.deps.json
+C:\Users\Infinity\source\repos\Turing Machine Emulator\Turing Machine Emulator\bin\Release\netcoreapp3.1\Turing Machine Emulator.runtimeconfig.json
+C:\Users\Infinity\source\repos\Turing Machine Emulator\Turing Machine Emulator\bin\Release\netcoreapp3.1\Turing Machine Emulator.runtimeconfig.dev.json
+C:\Users\Infinity\source\repos\Turing Machine Emulator\Turing Machine Emulator\bin\Release\netcoreapp3.1\Turing Machine Emulator.dll
+C:\Users\Infinity\source\repos\Turing Machine Emulator\Turing Machine Emulator\bin\Release\netcoreapp3.1\Turing Machine Emulator.pdb
+C:\Users\Infinity\source\repos\Turing Machine Emulator\Turing Machine Emulator\obj\Release\netcoreapp3.1\Turing Machine Emulator.csproj.CoreCompileInputs.cache
+C:\Users\Infinity\source\repos\Turing Machine Emulator\Turing Machine Emulator\obj\Release\netcoreapp3.1\Turing Machine Emulator.AssemblyInfoInputs.cache
+C:\Users\Infinity\source\repos\Turing Machine Emulator\Turing Machine Emulator\obj\Release\netcoreapp3.1\Turing Machine Emulator.AssemblyInfo.cs
+C:\Users\Infinity\source\repos\Turing Machine Emulator\Turing Machine Emulator\obj\Release\netcoreapp3.1\Turing Machine Emulator.dll
+C:\Users\Infinity\source\repos\Turing Machine Emulator\Turing Machine Emulator\obj\Release\netcoreapp3.1\Turing Machine Emulator.pdb
+C:\Users\Infinity\source\repos\Turing Machine Emulator\Turing Machine Emulator\obj\Release\netcoreapp3.1\Turing Machine Emulator.genruntimeconfig.cache

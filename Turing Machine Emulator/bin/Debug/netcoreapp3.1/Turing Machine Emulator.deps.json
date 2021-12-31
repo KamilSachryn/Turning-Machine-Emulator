@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Turing Machine Emulator/1.0.0": {
+        "runtime": {
+          "Turing Machine Emulator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Turing Machine Emulator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
